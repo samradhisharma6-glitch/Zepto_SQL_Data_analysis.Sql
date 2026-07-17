@@ -13,9 +13,9 @@ Examine inventory availability across products.
 Discover top-performing categories based on pricing and discounts.
 Generate actionable insights for inventory and pricing strategies.
 
-#Key Insights
-Several product categories offer significantly higher discounts than others.
-Premium product categories contribute higher average selling prices.
-Certain products show low inventory levels and may require restocking.
-Discount strategies vary considerably across categories.
-Inventory distribution is uneven across the product catalog.
+#Key Insights-
+Several product categories offer significantly higher discounts than others.,
+Premium product categories contribute higher average selling prices.,
+Certain products show low inventory levels and may require restocking,.
+Discount strategies vary considerably across categories.,
+Inventory distribution is uneven across the product catalog.,
